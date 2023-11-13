@@ -54,7 +54,7 @@ const Shake = () => {
           />
         </>
       ) : (
-        <Text>No question selected yet</Text>
+        <Text>Shake phone to generate random question to solve!</Text>
       )}
     </SafeAreaView>
   );

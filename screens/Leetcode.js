@@ -62,7 +62,7 @@ const Leet = ({navigation}) => {
       <ButtonLink
         style={styles.button}
         url={`https://leetcode.com${data.link}`}
-        title="Open LeetCode"
+        title="Question of the Day"
       />
       <Shake />
     </View>
