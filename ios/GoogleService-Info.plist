@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>631504847688-8mdvnt2vks2ori1nsdmkpbhlejsc8qv7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.631504847688-8mdvnt2vks2ori1nsdmkpbhlejsc8qv7</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>631504847688-b8109app1dpagc3kaa8m4cd14c34mul5.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCsFFdaf9Y9GpMpsnRrq6TkNnK70iQNmRA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>631504847688</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.leetcodefinalproject</string>
+	<key>PROJECT_ID</key>
+	<string>leetcode-auth</string>
+	<key>STORAGE_BUCKET</key>
+	<string>leetcode-auth.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:631504847688:ios:deb6a5c3d9a32d21b3697d</string>
+</dict>
+</plist>

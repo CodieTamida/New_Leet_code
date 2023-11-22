@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "631504847688",
+    "project_id": "leetcode-auth",
+    "storage_bucket": "leetcode-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631504847688:android:2681e4c1e81bc5b4b3697d",
+        "android_client_info": {
+          "package_name": "com.leetcodefinalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631504847688-b8109app1dpagc3kaa8m4cd14c34mul5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leetcodefinalproject",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "631504847688-3b1d88cdee5kogea1sf0dmdgllqn7knh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEynTnRhK5QjlrI2HPKH5FLgKv10Az4wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631504847688-3b1d88cdee5kogea1sf0dmdgllqn7knh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "631504847688-ml2v83cufbepl91il0am284tvsm05obi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.FinalProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
