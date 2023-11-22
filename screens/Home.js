@@ -1,4 +1,6 @@
 import React from 'react';
+import {Platform} from 'react-native';
+import Login from '../components/Login.android';
 
 import AppContext from './AppContext';
 import {View, Text, Button} from 'react-native';
@@ -19,6 +21,7 @@ const Home = ({navigation}) => {
       <Button
         title=" Lets LeetCode"
         onPress={() => navigation.navigate('Leet')}></Button>
+      <Login />
     </View>
   );
 };
